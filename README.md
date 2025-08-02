@@ -4,10 +4,10 @@
 This project is a landing page created for Scoreazy's Counseling & Mentorship Program, developed as part of a Web Development Intern Assignment. It aims to showcase Scoreazy's offerings and guide users to book a session, emphasizing clarity, functionality, and a strong visual presence.
 
 ## About Scoreazy
-Scoreazy is a student-first company blending educational psychology, technology, and AI to deliver personalized learning for every student. [cite_start]Our offerings include blueprints, microcourses, and mentorship programs, all designed to make scoring easier. [cite: 5, 6]
+Scoreazy is a student-first company blending educational psychology, technology, and AI to deliver personalized learning for every student. [cite_start]Our offerings include blueprints, microcourses, and mentorship programs, all designed to make scoring easier. 
 
 ## Project Objective
-The objective was to create a simple, clear, and functional landing page that effectively showcases one of Scoreazy's products. [cite_start]The evaluation focused on clarity, content layout, visual flow, responsiveness, and basic SEO hygiene. [cite: 12, 13]
+The objective was to create a simple, clear, and functional landing page that effectively showcases one of Scoreazy's products. [cite_start]The evaluation focused on clarity, content layout, visual flow, responsiveness, and basic SEO hygiene.
 
 ## Features
 
@@ -74,14 +74,13 @@ This project is designed to be easily hosted on platforms like GitHub Pages. It 
 
 ## Guidelines Adherence
 
-[cite_start]The project also strictly follows the provided guidelines[cite: 45, 46, 47]:
+The project also strictly follows the provided guidelines:
 
 * **AI tools assisted with layout/code:** AI assistance was utilized throughout the development process.
 * **Visually clean, mobile-aware, and student/parent-friendly:** The design is clean, responsive, and welcoming.
 * **Fits the tone of an EdTech product:** The content and design are tailored to Scoreazy's brand as an educational technology company.
 
 ## Credits
-this project was developed by Sakshi Desai.
+This project was developed by Sakshi Desai.
 
-This project was developed by [Your Name/Sakshi M Desai].
-````
+
